@@ -1,6 +1,6 @@
-# Stickbug
+# Stickbug-gier
 
-A custom [Arch Linux](https://archlinux.org/) ISO with [KDE Plasma](https://kde.org/plasma-desktop/) for personal use.
+A custom [Arch Linux](https://archlinux.org/) ISO with [KDE Plasma](https://kde.org/plasma-desktop/) for personal use. Edited by tiffany because the original by MarsRon was broken.
 
 ![Screenshot of the system](images/preview.png)
 
