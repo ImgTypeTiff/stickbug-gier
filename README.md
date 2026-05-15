@@ -7,7 +7,7 @@ A custom [Arch Linux](https://archlinux.org/) ISO with [KDE Plasma](https://kde.
 ## Features
 
 - Suitable as a rescue ISO
-- Lightweight, only 2GB in size
+- Lightweight, only 2.5GB~ in size
 - _I use arch btw_
 
 Extra packages included:
@@ -69,7 +69,7 @@ You can also use Kitty terminal and follow the [Installation Guide](https://wiki
 
 - Use Layan dark theme + Tela icons
 - Add AUR packages (https://bbs.archlinux.org/viewtopic.php?pid=2006294#p2006294)
-  - yay
+  - ~~yay~~
   - ble.sh
 
 ## FAQ
