@@ -71,6 +71,7 @@ You can also use Kitty terminal and follow the [Installation Guide](https://wiki
 - Add AUR packages (https://bbs.archlinux.org/viewtopic.php?pid=2006294#p2006294)
   - ~~yay~~
   - ble.sh
+- Add calamares installer
 
 ## FAQ
 
